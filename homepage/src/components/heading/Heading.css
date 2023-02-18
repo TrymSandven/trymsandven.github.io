@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8rem;
+}
+
+.header-text {
+    font-size: 4rem;
+    font-weight: 300;
+    color: var(--color-white);
+}
