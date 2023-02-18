@@ -3,9 +3,9 @@ import "./Heading.css"
 
 const Heading = () => {
     return(
-        <section className={"container header"}>
-            <div className={"header"}>
-                <h1 className={"header-text"}>Trym Sandven</h1>
+        <section className={"container heading"}>
+            <div className={"heading"}>
+                <h1 className={"heading-text"}>Trym Sandven</h1>
             </div>
             <div className={"buttons"}>
 

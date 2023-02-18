@@ -15,7 +15,6 @@
   color: var(--color-white);
   position: relative;
   padding-bottom: 2rem;
-  padding-top: 20rem;
 }
 
 .header h1 span {
@@ -45,7 +44,6 @@ h1 span:nth-child(3) {
 .header-right {
   display: flex;
   justify-content: center;
-  padding-top: 6rem;
   flex-wrap: wrap;
   flex: 50%;
 }
@@ -60,7 +58,7 @@ h1 span:nth-child(3) {
   align-items: center;
   position: absolute;
   left: 50%;
-  bottom: -25rem;
+  bottom: 0rem;
   transform: translateX(-50%);
   cursor: pointer;
 }
