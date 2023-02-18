@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Navbar.css";
+import { BrowserRouter, Route, Link} from "react-router-dom";
 
 import { AiOutlineBars } from "react-icons/ai";
 import { RiCloseLine } from "react-icons/ri";
@@ -24,7 +25,7 @@ const Navbar = () => {
                     id={showMenu ? "nav-links-mobile" : "nav-links-mobile-hide"}
                 >
                     <li>
-                        <a href="#">Hjem</a>
+                        <Link to={"/"}>Hjem</Link>
                     </li>
                     <li>
                         <a href="#me">Om meg</a>
