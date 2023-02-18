@@ -46,6 +46,7 @@ h1 span:nth-child(3) {
   justify-content: center;
   flex-wrap: wrap;
   flex: 50%;
+  padding-top: 5rem;
 }
 
 .floating-icon {
