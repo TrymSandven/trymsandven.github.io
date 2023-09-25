@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e0b8bef.css",
+    "main.js": "/static/js/main.6965a376.js",
+    "static/media/UtfyllendeOnePage.pdf": "/static/media/UtfyllendeOnePage.06fc6106b523f022d742.pdf",
+    "static/media/om-meg.jpg": "/static/media/om-meg.e7ab0d2663d51e7fbd08.jpg",
+    "index.html": "/index.html",
+    "main.2e0b8bef.css.map": "/static/css/main.2e0b8bef.css.map",
+    "main.6965a376.js.map": "/static/js/main.6965a376.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0b8bef.css",
+    "static/js/main.6965a376.js"
+  ]
+}
