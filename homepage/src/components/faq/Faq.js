@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import "./Faq.css";
+import pdf from "../../assets/UtfyllendeOnePage.pdf";
 
 import { MdOutlineLibraryBooks } from "react-icons/md";
 
@@ -26,10 +27,10 @@ const projectList = [
     url: "https://github.com/TrymSandven/Portfolio",
   },
   {
-    title: "Analyse av F1 data",
+    title: "Utvikling av ESS Dataportal",
     description:
-      "Data analyse av rundetider i F1. Laget med Python og Jupyter Notebook gjennom API.",
-    url: "https://github.com/TrymSandven/F1-Dataanalyse",
+      "I sommerjobben hos Sikt var jeg med å utvikle en nettside for ESS. Nettsiden er laget med Vue, Typescript og Tailwind.",
+    url: pdf,
   },
 ];
 
