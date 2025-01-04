@@ -28,7 +28,7 @@ const Header = () => {
               <span>Webutiklar og maskinlæring</span>
             </h1>
             <p className="u-text-small u-text-light">
-              Systemutviklar med stor interesse for å lære nye
+              Utviklar med stor interesse for å lære nye
               verktøy og metodar
             </p>
             <div className="header-cta">
