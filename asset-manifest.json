@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.1a7392d0.css",
-    "main.js": "/static/js/main.2f2215ff.js",
+    "main.js": "/static/js/main.df8f87cd.js",
     "static/media/UtfyllendeOnePage.pdf": "/static/media/UtfyllendeOnePage.06fc6106b523f022d742.pdf",
     "static/media/om-meg.jpg": "/static/media/om-meg.835ffab05d4d844b9d0a.jpg",
     "index.html": "/index.html",
     "main.1a7392d0.css.map": "/static/css/main.1a7392d0.css.map",
-    "main.2f2215ff.js.map": "/static/js/main.2f2215ff.js.map"
+    "main.df8f87cd.js.map": "/static/js/main.df8f87cd.js.map"
   },
   "entrypoints": [
     "static/css/main.1a7392d0.css",
-    "static/js/main.2f2215ff.js"
+    "static/js/main.df8f87cd.js"
   ]
 }
