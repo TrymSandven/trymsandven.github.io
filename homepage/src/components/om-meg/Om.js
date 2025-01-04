@@ -22,9 +22,12 @@ const Features = () => {
             <BsFillBookmarkStarFill color="orangered" size={30} />
             <h2>Om meg</h2>
             <p className="u-text-small">
-              Jeg er en nyutdannet utvikler fra UiB. Gjennom studieløpet mitt har jeg fått erfaring med å jobbe med alt fra maskinlæring til å utvikle
-              nettsider. Jeg ser på meg selv som en god teamspiller som liker å jobbe med andre. Jeg er også veldig glad i
-              å løse problemer og å lære nye ting.
+            Eg er en utviklar med bachelorgrad i informasjonsvitskap frå UiB. 
+            Gjennom studieløpet mitt har eg fått prøve meg på mykje forskjellig. 
+            Alt frå maskinlæring, databasebehandling til UX design. 
+            I jobben hos Sikt – Kunnskapssektorens tjenesteleverandør var eg med å utvikle ei nettside for ESS samt vere med på å vidareutvikle Surveybanken. 
+            Nettsidene er laget med Vue, Typescript og Tailwind. Eg ser på meg sjølv som en god teamspiller som liker å jobbe med andre. 
+            Eg er også veldig glad i å løyse problema og å lære nye ting.
             </p>
           </div>
           <div className="features-content">

@@ -11,25 +11,25 @@ const projectList = [
   {
     title: "Prototype arbeid for NTB Media",
     description:
-      "Semesteroppdrag for NTB Media. Laget en prototype for en ny automatisering av værnyheter.",
+      "Semesteroppdrag for NTB Media. Laga ein prototype for automatisering av værnyheiter..",
     url: " https://teklab.uib.no/artikler/vaer-robot-a-effektivisere-vaer-nytt-gjennom-automatiserte-tekster/",
+  },
+  {
+    title: "Videreutvikling av Surveybanken",
+    description:
+      "Løysning som gjer det mogleg for Sikt å sjå kva opne datasett i Surveybanken vert brukt til.",
+    url: "https://1drv.ms/p/s!AhaY_EBXSFXEhM4duMlt7NotYPalRQ?e=XlOyIp",
   },
   {
     title: "Maskinlæring med data frå Spotify",
     description:
-      "Maskinlærring som ser på data frå Spotify og prøver å predikere om eit album kjem til å vere populært eller ikkje.",
+      "Semesteroppgåve i maskinlæring som ser på data frå Spotify og prøver å predikere om eit album kjem til å vere populært eller ikkje.",
     url: "https://github.com/TrymSandven/Gruppeeksamen_2022/blob/main/group_exam22.ipynb",
-  },
-  {
-    title: "Portfolio nettside",
-    description:
-      "Kjeldekode til denne nettsida har eit eige Github repo. Laget med React og CSS.",
-    url: "https://github.com/TrymSandven/Portfolio",
   },
   {
     title: "Utvikling av ESS Dataportal",
     description:
-      "I sommerjobben hos Sikt var jeg med å utvikle en nettside for ESS. Nettsiden er laget med Vue, Typescript og Tailwind.",
+      "I sommarjobben hos Sikt var eg med å utvikle en nettside for ESS. Nettsida er laget med Vue, Typescript og Tailwind. ",
     url: pdf,
   },
 ];
@@ -44,7 +44,7 @@ const Portfolio = () => {
     <section className="light" id="portfolio">
       <div className="u-title" data-aos="fade-up">
         <MdOutlineLibraryBooks color="orangered" size={30} />
-        <h2>Portfolie</h2>
+        <h2>Portefølje</h2>
       </div>
       <div>
         <div></div>

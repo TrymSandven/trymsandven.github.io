@@ -1,31 +1,31 @@
 import { TbBrandPython } from "react-icons/tb";
 import { AiOutlineConsoleSql } from "react-icons/ai";
-import { TbBrandHtml5 } from "react-icons/tb";
-import { TbBrandCss3 } from "react-icons/tb";
+import { TbBrandTypescript } from "react-icons/tb";
+import { FaVuejs } from "react-icons/fa";
 
 export const featureList = [
   {
     id: 1,
     icon: <TbBrandPython color="#0a1930" size={30} />,
     heading: "Python",
-    text: "Gjennom studiet har jeg lært å programmere i Python. Eg har lært å bruke bibliotekene Pandas, Numpy, Matplotlib og Scikit-learn og Django for å nevne nokon.",
+    text: "Gjennom studiet har primærspråket vert Python. Dette er eit språk eg føler eg beherskar og har erfaring med biblioteka Pandas, Numpy, Matplotlib og Scikit-learn for å nemne nokon.",
   },
   {
     id: 2,
     icon: <AiOutlineConsoleSql color="#0a1930" size={30} />,
     heading: "SQL",
-    text: "Eg har tatt introduksjonsfag i SQL der eg har lært å bruke å opprette og bruke databaser, tabeller og å utføre spørringer.",
+    text: "SQL er eit språk eg har brukt i fleire samanhengar. Eg har brukt SQL både på universitetet og i jobb samanheng. Eg har erfaring med å bruke SQL både til å opprette databasar og for å hente ut data frå databasar.", 
   },
   {
     id: 3,
-    icon: <TbBrandHtml5 color="#0a1930" size={30} />,
-    heading: "HTML5",
-    text: "HTML er grunnlaget for alle nettsider. Sjølv om studiiene mine ikkje har hatt hovedfokus på HTML så er det noko eg har vorte kjent med gjennom studietida.",
+    icon: <FaVuejs color="#0a1930" size={30} />,
+    heading: "Vue",
+    text: "Vue er eit rammeverk eg har brukt til å lage nettsider. Eg har brukt Vue til å lage nettsider for Sikt – Kunnskapssektorens tjenesteleverandør da det var rammeverket dei brukte. Med tiden hos Sikt føler eg at det er eit rammeverk eg beherskar godt.",
   },
   {
     id: 4,
-    icon: <TbBrandCss3 color="#0a1930" size={30} />,
-    heading: "CSS",
-    text: "Ein nettside er ikkje komplett utan CSS. Eg har lært å bruke CSS for å lage stilte nettsider.",
+    icon: <TbBrandTypescript color="#0a1930" size={30} />,
+    heading: "Typescript",
+    text: "Typescript er eit språk eg i hovudsak har brukt i samband med Vue. Derfor er dette også eit språk eg føler eg beherskar godt.",
   },
 ];
